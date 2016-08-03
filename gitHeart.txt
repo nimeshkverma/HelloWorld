@@ -56,3 +56,13 @@ Heart Number: 4
   *     *
      *
 
+
+
+Heart Number: 5
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
