@@ -986,3 +986,13 @@ Heart Number: 97
   *     *
      *
 
+
+
+Heart Number: 98
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
