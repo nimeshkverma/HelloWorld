@@ -406,3 +406,13 @@ Heart Number: 39
   *     *
      *
 
+
+
+Heart Number: 40
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
