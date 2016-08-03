@@ -166,3 +166,13 @@ Heart Number: 15
   *     *
      *
 
+
+
+Heart Number: 16
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
