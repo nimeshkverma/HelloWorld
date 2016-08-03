@@ -936,3 +936,13 @@ Heart Number: 92
   *     *
      *
 
+
+
+Heart Number: 93
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
