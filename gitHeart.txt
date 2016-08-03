@@ -956,3 +956,13 @@ Heart Number: 94
   *     *
      *
 
+
+
+Heart Number: 95
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
