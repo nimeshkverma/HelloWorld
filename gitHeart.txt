@@ -826,3 +826,13 @@ Heart Number: 81
   *     *
      *
 
+
+
+Heart Number: 82
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
