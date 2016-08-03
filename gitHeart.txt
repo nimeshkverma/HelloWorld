@@ -556,3 +556,13 @@ Heart Number: 54
   *     *
      *
 
+
+
+Heart Number: 55
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
