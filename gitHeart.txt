@@ -266,3 +266,13 @@ Heart Number: 25
   *     *
      *
 
+
+
+Heart Number: 26
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
