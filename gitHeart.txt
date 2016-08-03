@@ -116,3 +116,13 @@ Heart Number: 10
   *     *
      *
 
+
+
+Heart Number: 11
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
