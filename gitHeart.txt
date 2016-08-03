@@ -76,3 +76,13 @@ Heart Number: 6
   *     *
      *
 
+
+
+Heart Number: 7
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
