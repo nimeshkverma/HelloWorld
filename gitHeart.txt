@@ -516,3 +516,13 @@ Heart Number: 50
   *     *
      *
 
+
+
+Heart Number: 51
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
