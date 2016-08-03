@@ -626,3 +626,13 @@ Heart Number: 61
   *     *
      *
 
+
+
+Heart Number: 62
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
