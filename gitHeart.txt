@@ -926,3 +926,13 @@ Heart Number: 91
   *     *
      *
 
+
+
+Heart Number: 92
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
