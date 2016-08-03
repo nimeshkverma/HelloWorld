@@ -976,3 +976,13 @@ Heart Number: 96
   *     *
      *
 
+
+
+Heart Number: 97
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
