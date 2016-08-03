@@ -646,3 +646,13 @@ Heart Number: 63
   *     *
      *
 
+
+
+Heart Number: 64
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
