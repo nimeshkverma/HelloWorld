@@ -726,3 +726,13 @@ Heart Number: 71
   *     *
      *
 
+
+
+Heart Number: 72
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
