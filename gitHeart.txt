@@ -916,3 +916,13 @@ Heart Number: 90
   *     *
      *
 
+
+
+Heart Number: 91
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
