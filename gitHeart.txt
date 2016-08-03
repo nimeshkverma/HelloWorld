@@ -676,3 +676,13 @@ Heart Number: 66
   *     *
      *
 
+
+
+Heart Number: 67
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
