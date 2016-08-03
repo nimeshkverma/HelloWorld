@@ -356,3 +356,13 @@ Heart Number: 34
   *     *
      *
 
+
+
+Heart Number: 35
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
