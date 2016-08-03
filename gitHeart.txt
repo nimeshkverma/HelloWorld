@@ -366,3 +366,13 @@ Heart Number: 35
   *     *
      *
 
+
+
+Heart Number: 36
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
