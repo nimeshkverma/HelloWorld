@@ -806,3 +806,13 @@ Heart Number: 79
   *     *
      *
 
+
+
+Heart Number: 80
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
