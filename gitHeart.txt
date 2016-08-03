@@ -126,3 +126,13 @@ Heart Number: 11
   *     *
      *
 
+
+
+Heart Number: 12
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
