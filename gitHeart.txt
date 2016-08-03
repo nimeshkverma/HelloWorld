@@ -256,3 +256,13 @@ Heart Number: 24
   *     *
      *
 
+
+
+Heart Number: 25
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
