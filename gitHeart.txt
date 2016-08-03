@@ -546,3 +546,13 @@ Heart Number: 53
   *     *
      *
 
+
+
+Heart Number: 54
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
