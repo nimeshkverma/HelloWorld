@@ -776,3 +776,13 @@ Heart Number: 76
   *     *
      *
 
+
+
+Heart Number: 77
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
