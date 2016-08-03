@@ -36,3 +36,13 @@ Heart Number: 2
   *     *
      *
 
+
+
+Heart Number: 3
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
