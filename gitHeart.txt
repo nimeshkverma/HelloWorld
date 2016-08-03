@@ -96,3 +96,13 @@ Heart Number: 8
   *     *
      *
 
+
+
+Heart Number: 9
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
