@@ -296,3 +296,13 @@ Heart Number: 28
   *     *
      *
 
+
+
+Heart Number: 29
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
