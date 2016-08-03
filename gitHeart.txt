@@ -306,3 +306,13 @@ Heart Number: 29
   *     *
      *
 
+
+
+Heart Number: 30
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
