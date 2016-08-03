@@ -186,3 +186,13 @@ Heart Number: 17
   *     *
      *
 
+
+
+Heart Number: 18
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
