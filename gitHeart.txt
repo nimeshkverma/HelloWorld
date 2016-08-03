@@ -246,3 +246,13 @@ Heart Number: 23
   *     *
      *
 
+
+
+Heart Number: 24
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
