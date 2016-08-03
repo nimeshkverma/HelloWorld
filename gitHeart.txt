@@ -26,3 +26,13 @@ Heart Number: 1
   *     *
      *
 
+
+
+Heart Number: 2
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
