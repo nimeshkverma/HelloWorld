@@ -206,3 +206,13 @@ Heart Number: 19
   *     *
      *
 
+
+
+Heart Number: 20
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
