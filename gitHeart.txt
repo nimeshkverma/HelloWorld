@@ -906,3 +906,13 @@ Heart Number: 89
   *     *
      *
 
+
+
+Heart Number: 90
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
