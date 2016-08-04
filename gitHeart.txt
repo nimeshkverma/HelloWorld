@@ -3034,3 +3034,13 @@ Heart Number: 30
   *     *
      *
 
+
+
+Heart Number: 31
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
