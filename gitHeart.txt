@@ -3664,3 +3664,13 @@ Heart Number: 93
   *     *
      *
 
+
+
+Heart Number: 94
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
