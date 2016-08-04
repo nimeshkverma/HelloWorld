@@ -3714,3 +3714,13 @@ Heart Number: 98
   *     *
      *
 
+
+
+Heart Number: 99
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
