@@ -2824,3 +2824,13 @@ Heart Number: 9
   *     *
      *
 
+
+
+Heart Number: 10
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
