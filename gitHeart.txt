@@ -3474,3 +3474,13 @@ Heart Number: 74
   *     *
      *
 
+
+
+Heart Number: 75
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
