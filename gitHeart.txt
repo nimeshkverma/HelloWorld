@@ -2914,3 +2914,13 @@ Heart Number: 18
   *     *
      *
 
+
+
+Heart Number: 19
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
