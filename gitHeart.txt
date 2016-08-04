@@ -2874,3 +2874,13 @@ Heart Number: 14
   *     *
      *
 
+
+
+Heart Number: 15
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
