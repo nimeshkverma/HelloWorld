@@ -3194,3 +3194,13 @@ Heart Number: 46
   *     *
      *
 
+
+
+Heart Number: 47
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
