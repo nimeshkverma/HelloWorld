@@ -3164,3 +3164,13 @@ Heart Number: 43
   *     *
      *
 
+
+
+Heart Number: 44
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
