@@ -3514,3 +3514,13 @@ Heart Number: 78
   *     *
      *
 
+
+
+Heart Number: 79
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
