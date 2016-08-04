@@ -3414,3 +3414,13 @@ Heart Number: 68
   *     *
      *
 
+
+
+Heart Number: 69
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
