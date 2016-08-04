@@ -3584,3 +3584,13 @@ Heart Number: 85
   *     *
      *
 
+
+
+Heart Number: 86
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
