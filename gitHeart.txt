@@ -2944,3 +2944,13 @@ Heart Number: 21
   *     *
      *
 
+
+
+Heart Number: 22
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
