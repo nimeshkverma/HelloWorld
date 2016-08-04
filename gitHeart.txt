@@ -3404,3 +3404,13 @@ Heart Number: 67
   *     *
      *
 
+
+
+Heart Number: 68
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
