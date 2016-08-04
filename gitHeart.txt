@@ -3314,3 +3314,13 @@ Heart Number: 58
   *     *
      *
 
+
+
+Heart Number: 59
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
