@@ -3454,3 +3454,13 @@ Heart Number: 72
   *     *
      *
 
+
+
+Heart Number: 73
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
