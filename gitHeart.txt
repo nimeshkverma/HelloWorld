@@ -3294,3 +3294,13 @@ Heart Number: 56
   *     *
      *
 
+
+
+Heart Number: 57
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
