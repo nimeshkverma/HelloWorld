@@ -3214,3 +3214,13 @@ Heart Number: 48
   *     *
      *
 
+
+
+Heart Number: 49
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
