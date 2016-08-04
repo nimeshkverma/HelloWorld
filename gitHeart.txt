@@ -3334,3 +3334,13 @@ Heart Number: 60
   *     *
      *
 
+
+
+Heart Number: 61
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
