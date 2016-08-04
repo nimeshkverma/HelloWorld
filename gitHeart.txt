@@ -3324,3 +3324,13 @@ Heart Number: 59
   *     *
      *
 
+
+
+Heart Number: 60
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
