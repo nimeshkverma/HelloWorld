@@ -2934,3 +2934,13 @@ Heart Number: 20
   *     *
      *
 
+
+
+Heart Number: 21
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
