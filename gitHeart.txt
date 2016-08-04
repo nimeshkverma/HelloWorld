@@ -3244,3 +3244,13 @@ Heart Number: 51
   *     *
      *
 
+
+
+Heart Number: 52
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
