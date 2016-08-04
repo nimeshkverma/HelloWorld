@@ -3574,3 +3574,13 @@ Heart Number: 84
   *     *
      *
 
+
+
+Heart Number: 85
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
