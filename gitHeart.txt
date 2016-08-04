@@ -3594,3 +3594,13 @@ Heart Number: 86
   *     *
      *
 
+
+
+Heart Number: 87
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
