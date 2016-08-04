@@ -3154,3 +3154,13 @@ Heart Number: 42
   *     *
      *
 
+
+
+Heart Number: 43
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
