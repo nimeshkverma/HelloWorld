@@ -2764,3 +2764,13 @@ Heart Number: 3
   *     *
      *
 
+
+
+Heart Number: 4
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
