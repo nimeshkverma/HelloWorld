@@ -3464,3 +3464,13 @@ Heart Number: 73
   *     *
      *
 
+
+
+Heart Number: 74
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
