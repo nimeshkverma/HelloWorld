@@ -3044,3 +3044,13 @@ Heart Number: 31
   *     *
      *
 
+
+
+Heart Number: 32
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
