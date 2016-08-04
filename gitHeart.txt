@@ -3004,3 +3004,13 @@ Heart Number: 27
   *     *
      *
 
+
+
+Heart Number: 28
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
