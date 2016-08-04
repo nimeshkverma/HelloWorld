@@ -3174,3 +3174,13 @@ Heart Number: 44
   *     *
      *
 
+
+
+Heart Number: 45
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
