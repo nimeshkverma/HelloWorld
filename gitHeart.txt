@@ -3204,3 +3204,13 @@ Heart Number: 47
   *     *
      *
 
+
+
+Heart Number: 48
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
