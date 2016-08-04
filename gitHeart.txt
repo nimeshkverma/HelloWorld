@@ -3354,3 +3354,13 @@ Heart Number: 62
   *     *
      *
 
+
+
+Heart Number: 63
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
