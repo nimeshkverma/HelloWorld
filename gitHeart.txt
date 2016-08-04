@@ -3534,3 +3534,13 @@ Heart Number: 80
   *     *
      *
 
+
+
+Heart Number: 81
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
