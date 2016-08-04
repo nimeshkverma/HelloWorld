@@ -2784,3 +2784,13 @@ Heart Number: 5
   *     *
      *
 
+
+
+Heart Number: 6
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
