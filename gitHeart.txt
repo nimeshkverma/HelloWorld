@@ -2994,3 +2994,13 @@ Heart Number: 26
   *     *
      *
 
+
+
+Heart Number: 27
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
