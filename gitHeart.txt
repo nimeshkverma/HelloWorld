@@ -3304,3 +3304,13 @@ Heart Number: 57
   *     *
      *
 
+
+
+Heart Number: 58
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
