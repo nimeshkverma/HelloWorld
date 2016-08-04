@@ -2734,3 +2734,13 @@ Heart Number: 270
 #  Github Link: https://github.com/nimeshkverma/GitArt                         #
 #                                                                              #
 ################################################################################
+
+
+Heart Number: 1
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
