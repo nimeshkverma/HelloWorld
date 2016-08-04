@@ -3554,3 +3554,13 @@ Heart Number: 82
   *     *
      *
 
+
+
+Heart Number: 83
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
