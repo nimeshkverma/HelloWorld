@@ -3504,3 +3504,13 @@ Heart Number: 77
   *     *
      *
 
+
+
+Heart Number: 78
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
