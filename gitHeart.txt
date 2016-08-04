@@ -2894,3 +2894,13 @@ Heart Number: 16
   *     *
      *
 
+
+
+Heart Number: 17
+
+  **   **
+*    *    *
+*         *
+  *     *
+     *
+
